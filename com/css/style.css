@@ -441,8 +441,8 @@ input, select, textarea { font-family: inherit; }
    VALUES STRIP
    ==================================================== */
 .values-strip {
-  background: var(--dark);
-  padding: 5rem 0;
+    background-color: #2e4d28;
+    padding: 5rem 0;
 }
 .values-grid {
   display: grid;
