@@ -26,7 +26,7 @@ const TRANSLATIONS = {
         hero_title: '자연은 더 순하게,\n기술은 더 정교하게',
         hero_sub: '초음파 오일 수용화 기술로 완성된\n민감 피부를 위한 클린 아로마 케어',
         hero_cta1: '컬렉션 보기',
-        hero_cta2: '브랜드 스토리',
+        hero_cta2: '브랜드 스토어 ▶',
 
         val1_title: '100% 자연 유래',
         val1_desc: 'USDA 유기농 식물성 오일과 발효 기술로만 구성된 클린 포뮬러',
@@ -270,7 +270,7 @@ const TRANSLATIONS = {
         hero_title: 'Gentle by Nature,\nAdvanced by Technology',
         hero_sub: 'Clean aromatherapy skincare powered by\nproprietary ultrasonic oil-solubilization technology',
         hero_cta1: 'Shop Collections',
-        hero_cta2: 'Our Story',
+        hero_cta2: 'Brand Store ▶',
 
         val1_title: '100% Naturally Derived',
         val1_desc: 'Clean formulas built on USDA organic botanical oils and natural fermentation',
@@ -514,7 +514,7 @@ const TRANSLATIONS = {
         hero_title: '源于自然，更温和\n超越技术，更精准',
         hero_sub: '专利超声波油水乳化技术\n为敏感肌打造的清洁芳香护肤',
         hero_cta1: '浏览产品系列',
-        hero_cta2: '品牌故事',
+        hero_cta2: '品牌商店 ▶',
 
         val1_title: '100%天然来源',
         val1_desc: '采用USDA有机植物油和天然发酵技术配制的清洁配方',
@@ -758,7 +758,7 @@ const TRANSLATIONS = {
         hero_title: '自然はより穏やかに、\nテクノロジーはより精巧に',
         hero_sub: '超音波オイル可溶化技術が生み出す\n敏感肌のためのクリーンアロマケア',
         hero_cta1: 'コレクションを見る',
-        hero_cta2: 'ブランドストーリー',
+        hero_cta2: 'ブランドストア ▶',
 
         val1_title: '100%天然由来',
         val1_desc: 'USDA認証オーガニック植物性オイルと天然発酵技術のみで構成されたクリーン処方',
